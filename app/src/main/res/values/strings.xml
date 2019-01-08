@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GritDemo</string>
+
+    <string name="success_message">Success</string>
+    <string name="error_message">Error occurred</string>
+
+</resources>
